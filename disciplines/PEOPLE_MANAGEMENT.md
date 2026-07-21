@@ -195,8 +195,6 @@ Good conflict management:
 
 ## Hiring, Equity, and Pipeline Development
 
-> Publication status: publish after review/revision. This section uses the safer framing from [`PUBLICATION_DECISION_GATES.md`](https://github.com/RusDavies/docs-management-practices/blob/master/PUBLICATION_DECISION_GATES.md): broaden early exposure, mentorship, access, and retention while keeping hiring-stage evaluation transparent, role-relevant, and fair to individuals. Re-check this section before public, employment-facing, or personal-brand release.
-
 Candidate-pool asymmetry often forms long before a specific hiring decision. Culture, family expectations, education, peer norms, role models, early encouragement, access, mentorship, and self-selection can all affect who can realistically imagine, prepare for, enter, and remain in a field.
 
 Responsible managers should keep three related responsibilities distinct:
@@ -215,9 +213,7 @@ A constructive management position is:
 - review hiring outcomes for patterns without reducing individual candidates to demographic symbols
 - be honest about which interventions belong before hiring, during hiring, and after hiring
 
-This framing is pro-fairness, pro-opportunity, and pro-role-relevant assessment. It avoids implying that every imbalance is caused by one hiring manager while still requiring managers to improve the parts of the system they do control.
-
-For public use, keep the tone constructive and avoid culture-war framing. The useful management point is simple: build broader pathways, assess candidates fairly, and create conditions where people can succeed after they join.
+This approach is pro-fairness, pro-opportunity, and pro-role-relevant assessment. One hiring manager cannot repair every upstream access gap at the point of selection, but managers are still responsible for improving the parts of the system they control: build broader pathways, assess candidates fairly, and create conditions where people can succeed after they join.
 
 ## Disagree and Commit
 
