@@ -95,6 +95,7 @@ When and how will the project be reviewed after delivery?
 - Keep the brief focused on outcome, scope, constraints, decision owner, risks, and approach.
 - Revisit the brief when scope, schedule, sponsor, or constraints change.
 - Use it to align stakeholders before detailed planning.
+- Do not use this as a product brief substitute. For product intent, audience-specific product framing, market positioning, delivery-facing product context, or assurance posture, use the upstream [Product Brief Template Family](https://github.com/RusDavies/project-document-templates/blob/main/README.md).
 
 ## Example
 

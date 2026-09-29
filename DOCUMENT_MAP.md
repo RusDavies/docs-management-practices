@@ -70,6 +70,20 @@ Use [docs-software-product-process](https://github.com/RusDavies/docs-software-p
 - [Release Security Gate](https://github.com/RusDavies/docs-software-product-process/blob/master/RELEASE_SECURITY_GATE.md)
 - [Operations Guidance](https://github.com/RusDavies/docs-software-product-process/blob/master/OPERATIONS_GUIDANCE.md)
 
+## Companion Project Document Templates
+
+Use [project-document-templates](https://github.com/RusDavies/project-document-templates/blob/main/README.md) for reusable project-document template families that are maintained upstream rather than copied into this corpus.
+
+If this corpus ever needs self-contained local copies, vendor them deliberately with a pinned upstream commit, provenance note, and drift/sync check.
+
+- [Product Brief Template Family](https://github.com/RusDavies/project-document-templates/blob/main/README.md)
+- [Product Brief Audience Model](https://github.com/RusDavies/project-document-templates/blob/main/docs/product-brief-audience-model.md)
+- [Source Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/source-product-brief.md)
+- [Executive Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/executive-product-brief.md)
+- [Delivery Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/delivery-product-brief.md)
+- [Market Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/market-product-brief.md)
+- [Assurance Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/assurance-product-brief.md)
+
 ## Companion Agent Specialist Layer
 
 - [agent-specialist-registry](https://github.com/RusDavies/agent-specialist-registry/blob/master/README.md) — downstream agent-facing layer generated or validated from this canonical human-readable corpus; includes mapping manifests, task packs, retrieval chunks, eval scenarios, drift checks, and review gates.

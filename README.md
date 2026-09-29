@@ -104,6 +104,20 @@ Natural handoffs include:
 
 Keep the cross-reference light: this repository manages people, decisions, accountability, and cadence; the software-product-process repository supplies product-build specifics when the work is software.
 
+## Companion Project Document Templates
+
+Use [project-document-templates](https://github.com/RusDavies/project-document-templates/blob/main/README.md) for reusable project-document template families that should evolve outside this management-practices corpus.
+
+If this corpus ever needs self-contained local copies of upstream templates, vendor them deliberately with a pinned upstream commit, provenance note, and drift/sync check rather than copying them ad hoc.
+
+The upstream [Product Brief Template Family](https://github.com/RusDavies/project-document-templates/blob/main/README.md) is the canonical product-brief source. Start with the [Product Brief Audience Model](https://github.com/RusDavies/project-document-templates/blob/main/docs/product-brief-audience-model.md), then choose the smallest useful brief:
+
+- [Source Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/source-product-brief.md)
+- [Executive Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/executive-product-brief.md)
+- [Delivery Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/delivery-product-brief.md)
+- [Market Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/market-product-brief.md)
+- [Assurance Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/assurance-product-brief.md)
+
 ## Companion Agent Specialist Layer
 
 Agent-facing management specialist artifacts live in [agent-specialist-registry](https://github.com/RusDavies/agent-specialist-registry/blob/master/README.md), not in this repository.

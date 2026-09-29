@@ -659,7 +659,17 @@ Use the smallest useful set:
 - production-readiness checklist
 - deprecation/sunset plan
 
-Relevant repository templates:
+Relevant product-brief templates:
+
+- [Product Brief Template Family](https://github.com/RusDavies/project-document-templates/blob/main/README.md)
+- [Product Brief Audience Model](https://github.com/RusDavies/project-document-templates/blob/main/docs/product-brief-audience-model.md)
+- [Source Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/source-product-brief.md)
+- [Executive Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/executive-product-brief.md)
+- [Delivery Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/delivery-product-brief.md)
+- [Market Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/market-product-brief.md)
+- [Assurance Product Brief](https://github.com/RusDavies/project-document-templates/blob/main/templates/product-brief/assurance-product-brief.md)
+
+Related local templates:
 
 - [Project Brief Template](https://github.com/RusDavies/docs-management-practices/blob/master/templates/project-brief.md)
 - [Decision Record Template](https://github.com/RusDavies/docs-management-practices/blob/master/templates/decision-record.md)
